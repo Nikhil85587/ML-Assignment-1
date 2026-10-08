@@ -8,12 +8,12 @@ Polynomial regression with 5-fold cross-validation.
 VAR1:
 - Features: x1-x6
 - Degrees tested: 1-10
-- Selected degree: 4
+- Selected degree: 5
 
 VAR2:
 - Features: x1-x3
 - Degrees tested: 1-20
-- Selected degree: 8
+- Selected degree: 12
 
 ## Files
 - polynomial_regression_k_fold.py
